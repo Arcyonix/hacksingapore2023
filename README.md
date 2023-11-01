@@ -81,9 +81,8 @@ Follow these steps to run the project on your local machine.
 We built EdiPlants with a powerful set of technologies:
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/EdiPlants_Stack.png" alt="Tech Stack">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/EdiPlants_Stack.png" alt="Tech Stack">
 </p>
-
 
 # 💖 The Team: Hola
 
