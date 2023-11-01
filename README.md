@@ -44,35 +44,35 @@ Follow these steps to run the project on your local machine.
 ## Create and cultivate your own virtual edible garden, right at your fingertips
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/GardenIntro.jpg" alt="Feature 1">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/GardenIntro.jpg" alt="Feature 1">
 </p>
 
 
 ## Curated, healthy gourment recipes tailored to your harvest
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/RecipeIntro.png" alt="Feature 2">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/RecipeIntro.png" alt="Feature 2">
 </p>
 
 
 ## Experience the future of plant care with our AI chatbot at your fingertips
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/chatbot.png" alt="Feature 3">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/chatbot.png" alt="Feature 3">
 </p>
 
 
 ## Uncover new botanical wonders aligned with your plant collection
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/DiscoverIntro.png" alt="Feature 4">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/DiscoverIntro.png" alt="Feature 4">
 </p>
 
 
 ## Together, we can creating a brighter, greener future for generations to come
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/leaderboardIntro.png" alt="Feature 5">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/leaderboardIntro.png" alt="Feature 5">
 </p>
 
 
@@ -81,7 +81,7 @@ Follow these steps to run the project on your local machine.
 We built EdiPlants with a powerful set of technologies:
 
 <p align="center">
-  <img src="https://github.com/Arcyonix/hacksingapore2023/tree/main/public/landingPageImages/EdiPlants_Stack.png" alt="Tech Stack">
+  <img src="https://github.com/Arcyonix/hacksingapore2023/blob/main/public/landingPageImages/EdiPlants_Stack.png" alt="Tech Stack">
 </p>
 
 
